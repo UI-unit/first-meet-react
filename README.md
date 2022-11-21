@@ -9,8 +9,12 @@
 
 - 6장 State와 생명주기
 - 7장 훅
-* useLayoutEffect
+
+* useLayoutEffect :
 https://velog.io/@leehyunho2001/useEffect-useLayoutEffect
+
+* useTransition : 
+https://spice-decade-026.notion.site/useTransition-6d172b55fe4540b885cbc31ad5b5f467
 
 ## 📢 3주차 (11/28)
 
