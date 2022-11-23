@@ -16,6 +16,9 @@ https://velog.io/@leehyunho2001/useEffect-useLayoutEffect
 * useTransition : 
 https://spice-decade-026.notion.site/useTransition-6d172b55fe4540b885cbc31ad5b5f467
 
+* useEffect, useMemo, useCallback 차이 : 
+https://velog.io/@humonnom/React-useEffect-useMeme-%EA%B7%B8%EB%A6%AC%EA%B3%A0-useCallback-%EA%B0%81-%EC%82%AC%EC%9A%A9%EB%B2%95%EA%B3%BC-%EC%B0%A8%EC%9D%B4
+
 ## 📢 3주차 (11/28)
 
 - 8장 이벤트 핸들링
