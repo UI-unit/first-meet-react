@@ -40,7 +40,7 @@ https://react-hook-form.com/
 ## 📢 6주차 (12/19)
 - 16장 미니 프로젝트\_미니 블로그 만들기 2
 - 페이크 API <br>
-https://www.melivecode.com/<br><br>
+https://www.melivecode.com/<br>
 https://reqres.in/<br>
 https://jsonplaceholder.typicode.com/<br>
 
