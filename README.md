@@ -33,12 +33,16 @@ https://velog.io/@humonnom/React-useEffect-useMeme-%EA%B7%B8%EB%A6%AC%EA%B3%A0-u
 
 ## 📢 5주차 (12/12)
 - 15장 스타일링 (각자)
-- 16장 미니 프로젝트\_미니 블로그 만들기
+- 16장 미니 프로젝트\_미니 블로그 만들기 1 
 - 리액트로 회원가입 등 입력값 제출 하실 때 참고 <br>
 https://react-hook-form.com/
 
 ## 📢 6주차 (12/19)
-- 프로젝트 1
+- 16장 미니 프로젝트\_미니 블로그 만들기 2
+- 페이크 API <br>
+https://www.melivecode.com/<br><br>
+https://reqres.in/<br>
+https://jsonplaceholder.typicode.com/<br>
 
 
 
